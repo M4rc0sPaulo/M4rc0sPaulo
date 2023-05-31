@@ -4,6 +4,15 @@
 [![](https://gitwar.herokuapp.com/badge?username=M4rc0sPaulo&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+### Sobre mim
+🛠   I’m currently working with Nodejs, Express, React,
+Graphql, Mongodb, Javascript, etc.
+🚀   I’m currently learning Full Stack Development.
+👨🏻‍💻   Most of my projects are available on Github.
+💬   Ask me about anything here! I am happy to help.
+👾   Fun fact: Equal is Not Always Equal in Javascript.
+📫   How to reach me: pavangandhi100@gmail.com.
+📝   C
 
 
 
