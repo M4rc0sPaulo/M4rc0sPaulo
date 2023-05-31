@@ -6,7 +6,7 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 ### Sobre mim
 <p>- 🛠 &nbsp; Me interessei por Back-End e estou aprendendo o que for possivel e estaria disposto a aprender mais!</p>
-<p>- 🚀 &nbsp; Ser um Full-Stack é uma opção a se pensar, mas por enquanto buso me envolver por baixo dos panos</p>
+<p>- 🚀 &nbsp; Ser um Full-Stack é uma opção a se pensar, mas por enquanto buso me envolver por baixo dos panos.</p>
 
 
 
