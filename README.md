@@ -8,7 +8,7 @@
 <p>- 🛠 &nbsp; Me interessei por Back-End e estou aprendendo o que for possivel e estaria disposto a aprender mais!</p>
 <p>- 🚀 &nbsp; Ser um Full-Stack é uma opção a se pensar, mas por enquanto buso me envolver por baixo dos panos</p>
 <p>- 🖥 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.</p>
-<p>- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.</p>
+<p>- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.</p>d
 
 
 
