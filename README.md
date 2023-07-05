@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá, me chamo Marcos Paulo, tenho 18 anos e estudo numa Etec em Análise e Desenvolvimento de Sistemas.
-  Me descobri nesta área gostei daquilo que mais me interessou: desenvolver um Sistema.
+ Olá, me chamo Marcos Paulo, tenho 18 anos e atualmente estudo numa Etec em Análise e Desenvolvimento de Sistemas.
+  Me descobri nesta área gostei daquilo que mais me interessou: desenvolver sistemas.
   Mas, como qualquer outro programador, estaria disposto a percorrer por várias áreas além daquela que eu gostei.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Angular, Kotlin, DotNet, JavaScript, </strong>
+  🦄 Linguagens: <strong>Angular, Kotlin, DotNet, JavaScript</strong>
 </p>
 
 <p align="left">
