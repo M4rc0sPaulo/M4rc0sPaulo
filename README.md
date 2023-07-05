@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Angular, Kotlin, C#, JavaScript</strong>
+  🦄 Linguagens: <strong>Angular, Kotlin, C#, JavaScript, MAUI, C++</strong>
 </p>
 
 <p align="left">
