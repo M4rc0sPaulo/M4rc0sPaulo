@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>HTML5, CSS3, NodeJS, BootStrap</strong>
+  💼 Ferramentas: <strong>HTML5, CSS3, NodeJS, BootStrap, PostMan, Visual Studio, Visual Studio Code</strong>
 </p>
 
 # Mais detalhes:
