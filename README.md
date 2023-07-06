@@ -2,8 +2,8 @@
 
 <p align="left"> 
  Olá, me chamo Marcos Paulo, tenho 18 anos e atualmente estudo numa Etec em Análise e Desenvolvimento de Sistemas.
-  Me descobri nesta área e amei fazer aquilo que me proporcionou desafios: desenvolver sistemas.
-  No entanto, outras coias me trouxeram dificuldade mas com muito empenho as compreeendi, estaria dispoto a ir para várias outras áreas se
+  Me descobri nessa área e comecei a  amar ao fazer aquilo que mais me proporcionou desafios: desenvolver sistemas.
+  No entanto, outras matérias me trouxeram dificuldade mas com muito empenho as compreeendi, estaria dispoto a ir para várias outras áreas se
   me for cabível e confortável.
 </p>
 
