@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá, me chamo Marcos Paulo, tenho 18 anos e atualmente estudo numa Etec em Análise e Desenvolvimento de Sistemas.
+ Olá!, me chamo Marcos Paulo, tenho 18 anos e atualmente estudo numa Etec em Análise e Desenvolvimento de Sistemas.
   Me descobri nessa área e comecei a  amar ao fazer aquilo que mais me proporcionou desafios: desenvolver sistemas.
   No entanto, outras matérias me trouxeram dificuldade mas com muito empenho as compreeendi, estaria dispoto a ir para várias outras áreas se
   me for cabível e confortável.
